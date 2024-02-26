@@ -1,0 +1,1 @@
+{"id":"grdwaa4buty3byxyic5dstvl42f7gwly7fco4qr37ssa3zsm3m3q","stamp":"2024-02-26T15:13:15.615585587Z","payload":{"op":"account_transfer","note":"vote charge for ballot pmp/motion/priority_poll/23","args":{"amount":{"asset":"plural","quantity":9},"from":"user:ctessum","to":"ballot_escrow:pmp/motion/priority_poll/23"}}}
