@@ -1,0 +1,1 @@
+{"id":"pjsmor7uhklqkdb4xvwws6qyqaikjd5o637edd6u7qzix2k7ucja","stamp":"2024-04-05T20:38:33.527957562Z","payload":{"op":"account_transfer","note":"reward for proposal 27","args":{"amount":{"asset":"plural","quantity":9},"from":"motion:27+pmp-proposal-reward","to":"user:ctessum"}}}
